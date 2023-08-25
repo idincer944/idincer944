@@ -16,7 +16,7 @@ When I'm not coding, I enjoy making music. I'm also a musician and a teacher. I 
 
 I'm familiar with a range of technologies and tools, including:
 
-- Programming languages: Javascript, python, C.
+- Programming languages: Javascript, Python, C.
 - Frameworks: Express.js, Django
 - Tools & platforms: I'm experienced with a variety of development tools and platforms, with a focus on building web applications using Node.js and Express.js. Some of the tools and technologies I frequently use include:
 
